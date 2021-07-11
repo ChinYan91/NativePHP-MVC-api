@@ -1,0 +1,9 @@
+{
+    "database" : {
+        "hostname" : "127.0.0.1",
+        "username" : "testUSER",
+        "password" : "P4$$w0rd",
+        "database" : "testPHP",
+        "port" : 3306
+    }
+}
